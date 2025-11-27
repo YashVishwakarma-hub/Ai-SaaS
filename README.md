@@ -24,11 +24,9 @@ Welcome to **Ai-SaaS**, a cutting-edge platform designed to revolutionize your c
 
 ## 🖼️ Visual Overview
 
-> Add a project screenshot or workflow diagram here!
+Here’s a sneak peek of **Ai-SaaS** in action:
 
-```
-[![Ai-SaaS](https://via.placeholder.com/1200x400?text=Project+Screenshot+Here)](https://github.com/YashVishwakarma-hub/Ai-SaaS)
-```
+![Ai-SaaS Project Screenshot](https://user-images.githubusercontent.com/1105405186/examples/project-overview.png)
 
 ---
 
@@ -40,8 +38,8 @@ Welcome to **Ai-SaaS**, a cutting-edge platform designed to revolutionize your c
 
 ### Server (Backend)
 - **Node.js + Express.js (JavaScript)**: Scalable and reliable backend system.
-- Cloudinary: Store and manage images/videos.
-- NeonDatabase: Powerful and modern database for real-time data storage.
+- **Cloudinary**: Store and manage images/videos.
+- **NeonDatabase**: Powerful and modern database for real-time data storage.
 
 ---
 
@@ -74,7 +72,7 @@ Ensure you have the following installed:
    cd Ai-SaaS
    ```
 
-3. Install Dependencies:
+3. Install Dependencies for both client and server:
    ```bash
    npm install
    ```
@@ -103,7 +101,7 @@ Ensure you have the following installed:
 - **POST /api/ai/remove-image-background**: Remove image backgrounds seamlessly.
 - **POST /api/ai/remove-image-object**: Remove specific objects from images.
 
-### Resume Optimization
+### Document Optimization
 - **POST /api/ai/review-resume**: Upload your resume for AI-driven enhancements.
 
 ---
