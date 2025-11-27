@@ -22,14 +22,6 @@ Welcome to **Ai-SaaS**, a cutting-edge platform designed to revolutionize your c
 
 ---
 
-## 🖼️ Visual Overview
-
-Here’s a sneak peek of **Ai-SaaS** in action:
-
-![Ai-SaaS Project Screenshot](https://user-images.githubusercontent.com/1105405186/examples/project-overview.png)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Client (Frontend)
